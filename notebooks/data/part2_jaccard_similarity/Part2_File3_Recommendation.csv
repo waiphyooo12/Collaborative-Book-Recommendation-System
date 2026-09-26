@@ -1,0 +1,91 @@
+User ID,Book’s ISBN,Book’s Title,Jaccard Similarity
+11676,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.078
+11676,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.03
+11676,804114986,The Bonesetter s Daughter,0.026
+11676,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.024
+11676,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.024
+11676,684874350,ANGELA S ASHES,0.023
+11676,671003755,She s Come Undone ,0.021
+11676,316776963,Me Talk Pretty One Day,0.02
+11676,014028009X,Bridget Jones s Diary,0.02
+11676,316284955,White Oleander : A Novel (Oprah s Book Club),0.02
+16795,671003755,She s Come Undone ,0.026
+16795,068484477X,STONES FROM THE RIVER,0.025
+16795,142000205,Icy Sparks,0.021
+16795,375726403,Empire Falls,0.021
+16795,345361792,A Prayer for Owen Meany,0.021
+16795,452282829,We Were the Mulvaneys,0.019
+16795,440224764,The Partner,0.018
+16795,375700757,Cold Mountain ,0.018
+16795,446310786,To Kill a Mockingbird,0.017
+16795,316284955,White Oleander : A Novel (Oprah s Book Club),0.017
+22625,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.108
+22625,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.035
+22625,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.028
+22625,439139600,Harry Potter and the Goblet of Fire (Book 4),0.026
+22625,446608955,A Walk to Remember,0.021
+22625,452282829,We Were the Mulvaneys,0.019
+22625,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.019
+22625,142001740,The Secret Life of Bees,0.018
+22625,044021145X,The Firm,0.018
+22625,786868716,The Five People You Meet in Heaven,0.017
+35859,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.174
+35859,345361792,A Prayer for Owen Meany,0.036
+35859,440213525,The Client,0.036
+35859,452282829,We Were the Mulvaneys,0.031
+35859,671003755,She s Come Undone ,0.031
+35859,142001740,The Secret Life of Bees,0.029
+35859,684872153,Angela s Ashes (MMP) : A Memoir,0.028
+35859,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.026
+35859,345337662,Interview with the Vampire,0.025
+35859,316769487,The Catcher in the Rye,0.024
+95359,804114986,The Bonesetter s Daughter,0.044
+95359,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.037
+95359,380789035,American Gods,0.035
+95359,380789019,Neverwhere,0.033
+95359,684874350,ANGELA S ASHES,0.032
+95359,345337662,Interview with the Vampire,0.027
+95359,671021001,She s Come Undone,0.026
+95359,60915544,The Bean Trees,0.023
+95359,786868716,The Five People You Meet in Heaven,0.023
+95359,316284955,White Oleander : A Novel (Oprah s Book Club),0.022
+104636,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.146
+104636,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.049
+104636,439064864,Harry Potter and the Chamber of Secrets (Book 2),0.047
+104636,043935806X,Harry Potter and the Order of the Phoenix (Book 5),0.032
+104636,345361792,A Prayer for Owen Meany,0.027
+104636,440213525,The Client,0.023
+104636,446608955,A Walk to Remember,0.02
+104636,316769487,The Catcher in the Rye,0.019
+104636,452282829,We Were the Mulvaneys,0.016
+104636,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.016
+110912,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.042
+110912,380789035,American Gods,0.034
+110912,671003755,She s Come Undone ,0.033
+110912,345337662,Interview with the Vampire,0.032
+110912,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.031
+110912,684874350,ANGELA S ASHES,0.028
+110912,60915544,The Bean Trees,0.028
+110912,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.028
+110912,449212602,The Handmaid s Tale,0.026
+110912,446310786,To Kill a Mockingbird,0.026
+204864,684872153,Angela s Ashes (MMP) : A Memoir,0.041
+204864,804114986,The Bonesetter s Daughter,0.034
+204864,60392452,Stupid White Men ...and Other Sorry Excuses for the State of the Nation!,0.027
+204864,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.025
+204864,345337662,Interview with the Vampire,0.025
+204864,142001740,The Secret Life of Bees,0.025
+204864,345361792,A Prayer for Owen Meany,0.024
+204864,553572997,The Alienist,0.023
+204864,446310786,To Kill a Mockingbird,0.022
+204864,60915544,The Bean Trees,0.021
+271448,312278586,The Nanny Diaries,0.125
+271448,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.034
+271448,375726403,Empire Falls,0.028
+271448,684872153,Angela s Ashes (MMP) : A Memoir,0.026
+271448,375727345,House of Sand and Fog,0.025
+271448,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.025
+271448,059035342X,Harry Potter and the Sorcerer s Stone (Harry Potter (Paperback)),0.025
+271448,142001740,The Secret Life of Bees,0.02
+271448,312195516,The Red Tent (Bestselling Backlist),0.02
+271448,375700757,Cold Mountain ,0.02

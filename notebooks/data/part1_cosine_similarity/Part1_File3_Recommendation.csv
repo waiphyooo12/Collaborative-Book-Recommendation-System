@@ -1,0 +1,46 @@
+User ID,Book’s ISBN,Book’s Title,Similarity
+11676,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.245
+11676,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.140
+11676,316284955,White Oleander : A Novel (Oprah s Book Club),0.129
+11676,316776963,Me Talk Pretty One Day,0.129
+11676,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.122
+16795,671003755,She s Come Undone ,0.148
+16795,60502258,The Divine Secrets of the YaYa Sisterhood: A Novel,0.124
+16795,345337662,Interview with the Vampire,0.100
+16795,375726403,Empire Falls,0.096
+16795,446606812,Message in a Bottle,0.091
+22625,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.306
+22625,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.153
+22625,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.143
+22625,439139600,Harry Potter and the Goblet of Fire (Book 4),0.136
+22625,60959037,Prodigal Summer,0.124
+35859,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.319
+35859,440213525,The Client,0.161
+35859,440224764,The Partner,0.130
+35859,440225701,The Street Lawyer,0.113
+35859,044022165X,The Rainmaker,0.113
+95359,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.203
+95359,345337662,Interview with the Vampire,0.153
+95359,60915544,The Bean Trees,0.152
+95359,60959037,Prodigal Summer,0.128
+95359,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.127
+104636,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.336
+104636,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.246
+104636,439064864,Harry Potter and the Chamber of Secrets (Book 2),0.173
+104636,043935806X,Harry Potter and the Order of the Phoenix (Book 5),0.164
+104636,044022165X,The Rainmaker,0.150
+110912,345337662,Interview with the Vampire,0.232
+110912,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.222
+110912,60915544,The Bean Trees,0.174
+110912,60930535,The Poisonwood Bible: A Novel,0.155
+110912,60502258,The Divine Secrets of the YaYa Sisterhood: A Novel,0.154
+204864,684872153,Angela s Ashes (MMP) : A Memoir,0.197
+204864,312924585,Silence of the Lambs,0.173
+204864,345337662,Interview with the Vampire,0.140
+204864,60987103,Wicked: The Life and Times of the Wicked Witch of the West,0.135
+204864,553572997,The Alienist,0.131
+271448,312278586,The Nanny Diaries,0.228
+271448,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.164
+271448,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.139
+271448,375726403,Empire Falls,0.118
+271448,375727345,House of Sand and Fog,0.110
